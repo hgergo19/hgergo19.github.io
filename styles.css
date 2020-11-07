@@ -1,0 +1,113 @@
+html{
+    background-image: url(./assets/topography.png);
+   font: 1em courier;
+   font-family: 'Courier New', Courier, monospace;
+   font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.navbar {
+    background-color: #333333;
+    height: 76px;
+    width: 100%;
+    position: fixed;
+    top:0;
+}
+
+.navImg {
+    float: left;
+    padding:  20px;
+}
+
+.navi{
+    padding: 29px;
+    float: right;
+}
+
+.text-color{
+     color: #ff0099;
+}
+
+.navi a {
+    text-decoration: underline;
+    padding: 27px 10px;
+}
+
+.navi a:hover{
+    background-color: green;
+}
+
+#gitImg{
+    width: 16px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.title{
+    font-size: 50px;
+
+}
+
+.content{
+    padding: 2% 10%;
+    margin-top: 5%;
+}
+
+.separator{
+    text-align: center;
+    text-decoration: black;
+    font-weight: bold;
+    padding: 0px 10%;
+    margin: 50px;
+}
+
+.content h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.content p{
+    text-align: left;
+    margin: 8px auto 25px auto;
+}
+
+.content h4{
+    margin: 3px auto    ;
+    text-decoration: underline;
+}
+
+.intro{
+    line-height: 1,65em ;  
+}
+
+h3{
+    text-decoration: underline;
+}
+
+
+.return{
+    text-align: center;
+    display: block;
+}
+
+#up{
+   width: 25px;
+}
+
+.container{
+    padding: 0 10%;
+    margin: 2%;
+}
+
+.link {
+    text-decoration: none;
+}
+
+p a:hover{
+    color: green;
+}
+
+.italic{
+    font-style: italic;
+}
